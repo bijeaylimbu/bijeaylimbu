@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+
 
 
 <br/>
