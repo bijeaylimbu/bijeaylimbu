@@ -5,8 +5,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
-
-
 <br/>
 
 <a href="https://github.com/AVS1508">
